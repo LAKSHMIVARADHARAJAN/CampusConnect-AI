@@ -1,0 +1,7 @@
+{
+  "name": "CampusConnect",
+  "description": "A modern, comprehensive college management system featuring an intelligent student chatbot with audio support, staff login, and protected student search.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
